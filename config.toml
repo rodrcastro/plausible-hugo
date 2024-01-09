@@ -22,6 +22,6 @@
    # -- debug mode
    debug = true
    # -- remove console tip for giving a star on github
-   # gitstar = false
+   gitstar = false
 [params.plausible_version]
    id = "1.17.2"
